@@ -1,0 +1,15 @@
+D:\Алина Обучение\Finaltest\Task\Test\Test01\bin\Debug\net6.0\Test01.exe
+D:\Алина Обучение\Finaltest\Task\Test\Test01\bin\Debug\net6.0\Test01.deps.json
+D:\Алина Обучение\Finaltest\Task\Test\Test01\bin\Debug\net6.0\Test01.runtimeconfig.json
+D:\Алина Обучение\Finaltest\Task\Test\Test01\bin\Debug\net6.0\Test01.dll
+D:\Алина Обучение\Finaltest\Task\Test\Test01\bin\Debug\net6.0\Test01.pdb
+D:\Алина Обучение\Finaltest\Task\Test\Test01\obj\Debug\net6.0\Test01.csproj.AssemblyReference.cache
+D:\Алина Обучение\Finaltest\Task\Test\Test01\obj\Debug\net6.0\Test01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Алина Обучение\Finaltest\Task\Test\Test01\obj\Debug\net6.0\Test01.AssemblyInfoInputs.cache
+D:\Алина Обучение\Finaltest\Task\Test\Test01\obj\Debug\net6.0\Test01.AssemblyInfo.cs
+D:\Алина Обучение\Finaltest\Task\Test\Test01\obj\Debug\net6.0\Test01.csproj.CoreCompileInputs.cache
+D:\Алина Обучение\Finaltest\Task\Test\Test01\obj\Debug\net6.0\Test01.dll
+D:\Алина Обучение\Finaltest\Task\Test\Test01\obj\Debug\net6.0\refint\Test01.dll
+D:\Алина Обучение\Finaltest\Task\Test\Test01\obj\Debug\net6.0\Test01.pdb
+D:\Алина Обучение\Finaltest\Task\Test\Test01\obj\Debug\net6.0\Test01.genruntimeconfig.cache
+D:\Алина Обучение\Finaltest\Task\Test\Test01\obj\Debug\net6.0\ref\Test01.dll
